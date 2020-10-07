@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
-
+        
         ArrayList<Person> people = new ArrayList<Person>();
 
         people.add(new Student("name1", 20, "IRNITU", 4, (float) 11000.465));
