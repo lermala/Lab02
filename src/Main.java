@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("Test");
+        
         ArrayList<Person> people = new ArrayList<Person>();
 
         people.add(new Student("name1", 20, "IRNITU", 4, (float) 11000.465));
